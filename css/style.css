@@ -1,0 +1,117 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+html body{
+background-color : #FFFFFF;
+}
+body {
+  margin-top: 35px;
+  padding-top: 2rem;
+  position: relative;
+  overflow-y: scroll;
+}
+
+.jumbotron {
+    margin-bottom: 50px;
+    background-color: white;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    text-shadow: black 0em 0em 0em;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+
+footer {
+    color: white;
+    background-color:#FF69B4;
+}
+
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 0.05px;
+  width: auto;
+}
+
+.navbar-default {
+  background-color:teal;
+  color: blue;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: #FF69B4;
+}
+.navbar-custom2 {
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+}
+
+
+/*Maybe the important can be quit in the future, for now, this works*/
+.nav-pills>li>a{
+     color: #FF69B4!important;
+}
+
+.nav-pills>li>a.active,
+.nav-pills>li>a:hover,
+.nav-pills>li>a:focus {
+    background-color: #FF69B4!important;
+    color: white!important;
+    font-style:normal;font-variant:normal;
+}
+
+
+
+.navbar-nav > .active > a{color: black!important; background-color: #FFFFFF;}
+.navbar-nav > li > a:hover{color: black!important; background-color: #FFFFFF;font-style:normal;font-variant:normal;}
+.navbar-nav > li > a{color: #FFFFFF!important; font-size: 1.3em;}
+
+
+.btn-primary, .btn-primary:active, .btn-secondary, .btn-secondary:active{
+	background-color: #FF69B4;
+	border-color : white;
+	color: white;
+  font-variant:inherit;
+  font-style:inherit;
+  width:30%;
+  font-size:inherit;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-secondary:hover, .btn-secondary:focus{
+    background-color: #FFFFFF;
+		border-color: #FF69B4;
+		color: #FF69B4;
+    font-variant:inherit;
+    font-style:inherit;
+    width:30%;
+    font-size:inherit;
+}
+
+
+a, a:active, a:hover{
+    color: #FF69B4;
+    font-style:normal;
+    font-variant: normal;
+    font-size: medium;
+}
+
+h2 {
+  font-weight:700;
+}
+
+p{
+  text-align:justify;
+}
+
+:target::before {
+  content: "";
+  display: block;
+  height: 100px; /* fixed header height*/
+  margin: -100px 0 0; /* negative fixed header height */
+}
