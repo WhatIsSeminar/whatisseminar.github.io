@@ -148,6 +148,11 @@
   color: white;
 }
 
+.fa-envelope {
+  background: gray;
+  color: white;
+}
+
 .ai-orcid, .ai.ai-orcid:hover{
   background: white;
   color: #A6CE39;
