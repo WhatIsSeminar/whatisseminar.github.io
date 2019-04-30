@@ -39,20 +39,20 @@ text-align: center;
 }
 
 td:nth-child(3) {
-width: 44%;
+width: 59%;
 text-align: left;
 padding-left: 1em;
 font-style: italic;
 }
 
 td:nth-child(4) {
-width: 40%;
+width: 27%;
 text-align: left;
 padding-left: 1em;
 }
 
 td:nth-child(5) {
-width: 4%;
+width: 2%;
 text-align: center;
 font-style: italic;
 }
