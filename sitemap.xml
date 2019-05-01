@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://whatisseminar.xyz/</loc>
+      <lastmod>2019-05-01</lastmod>
+      <priority>1</priority>
+   </url>
+
+   <url>
+      <loc>https://whatisseminar.xyz/index.html</loc>
+      <lastmod>2019-05-01</lastmod>
+      <priority>1</priority>
+   </url>
+
+   <url>
+      <loc>https://whatisseminar.xyz/contact.html</loc>
+      <lastmod>2019-05-01</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://whatisseminar.xyz/credits.html</loc>
+      <lastmod>2019-05-01</lastmod>
+   </url>
+
+   <url>
+      <loc>https://whatisseminar.xyz/currenttalk.html</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <url>
+      <loc>https://whatisseminar.xyz/organization.html</loc>
+      <lastmod>2019-05-01</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://whatisseminar.xyz/speakers.html</loc>
+      <lastmod>2019-05-01</lastmod>
+   </url>
+
+   <url>
+      <loc>https://whatisseminar.xyz/talks.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://whatisseminar.xyz/anniversary10.html</loc>
+      <lastmod>2019-05-01</lastmod>
+   </url>
+
+   <url>
+       <loc>https://whatisseminar.xyz/talks/20181026.html</loc>
+       <lastmod>2017-05-01</lastmod>
+    </url>
+
+    <url>
+        <loc>https://whatisseminar.xyz/talks/20181109.html</loc>
+        <lastmod>2017-05-01</lastmod>
+     </url>
+
+     <url>
+         <loc>https://whatisseminar.xyz/talks/20181116.html</loc>
+         <lastmod>2017-05-01</lastmod>
+      </url>
+
+      <url>
+          <loc>https://whatisseminar.xyz/talks/20181130.html</loc>
+          <lastmod>2017-05-01</lastmod>
+     </url>
+
+     <url>
+         <loc>https://whatisseminar.xyz/talks/20181207.html</loc>
+         <lastmod>2017-05-01</lastmod>
+    </url>
+
+   <url>
+          <loc>https://whatisseminar.xyz/talks/20190412.html</loc>
+          <lastmod>2017-05-01</lastmod>
+   </url>
+
+   <url>
+          <loc>https://whatisseminar.xyz/talks/20190426.html</loc>
+          <lastmod>2017-05-01</lastmod>
+   </url>
+
+
+</urlset>
