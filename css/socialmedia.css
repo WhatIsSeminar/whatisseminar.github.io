@@ -153,6 +153,11 @@
   color: white;
 }
 
+.fa-envelope-open-o {
+  color:white;
+  background:#FF69B4;
+}
+
 .ai-orcid, .ai.ai-orcid:hover{
   background: white;
   color: #A6CE39;
