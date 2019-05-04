@@ -30,3 +30,4 @@ Steps to add/update information about a talk:
 <lastmod>YYYY-MM-DD</lastmod>
 </url>
 where the first date is the identifier of the HTML file of the talk and the second one the day of creation modification of the talk. If the file is just being modified, then just update the date of the code present in the XML file.
+5. If this is a current talk, paste the relevant part of the code in the currenttalk.html file, so that it remains updated.
