@@ -10,7 +10,7 @@ Steps to add/update information about a talk:
 	+One should avoid capitalization in the title. If this is an old talk, one should make sure that the title in the talks lists in "talks.html" is not capitalized at all.
 -Speaker
 	+Complete name of the speaker where "Speaker" is.
-	+Institution of the speaker where "Institution" is. Use "FU/HU/TU Berlin" instead of just "FU/HU/TU".
+	+Institution of the speaker where "University Berlin" is. Use "FU/HU/TU Berlin" instead of just "FU/HU/TU".
 -Date
 	+Date of the talk of the talk in the place of "YYY/MM/DD"
 	+Time of the talk in the place of "13:00".
