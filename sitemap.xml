@@ -9,7 +9,7 @@
 
    <url>
   <loc>https://whatisseminar.xyz/index.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-05-08</lastmod>
     <priority>1</priority>
    </url>
 
@@ -21,7 +21,7 @@
 
    <url>
     <loc>https://whatisseminar.xyz/credits.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-05-08</lastmod>
   </url>
 
   <url>
@@ -32,18 +32,18 @@
 
   <url>
     <loc>https://whatisseminar.xyz/organization.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-05-08</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://whatisseminar.xyz/speakers.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-05-08</lastmod>
   </url>
 
   <url>
     <loc>https://whatisseminar.xyz/anniversary10.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-05-08</lastmod>
   </url>
 
   <!-- ===================================================
@@ -163,6 +163,11 @@
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20180427.html</loc>
+       <lastmod>2019-05-08</lastmod>
+     </url>
+
+     <url>
+       <loc>https://whatisseminar.xyz/talks/20180518.html</loc>
        <lastmod>2019-05-08</lastmod>
      </url>
 
