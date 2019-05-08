@@ -4,9 +4,9 @@ Steps to add/update information about a talk:
 2. Meta information. Put the title of the talk in the meta tag title and below the complete name of the speaker in the meta tag of the description. The name of the talk should be included here as "What is/are TOPIC-OF-THE-TALK?"
 
 3. Update information of the talk in the body.
--Choose "What is..." or "What are..." depending on grammatical number of what comes next. Just era the one that does not belong there.
+-Choose "What is..." or "What are..." depending on grammatical number of what comes next. Just erase the one that does not belong there.
 -Title
-	+Title should go in the place of "whatever the talk is about" (without the particle "What is/are" of the beginning which is included in a fancy form already).
+	+Title should go in the place of "whatever the talk is about" (without the particle "What is/are" of the beginning which is already included in a fancy form).
 	+One should avoid capitalization in the title. If this is an old talk, one should make sure that the title in the talks lists in "talks.html" is not capitalized at all.
 -Speaker
 	+Complete name of the speaker where "Speaker" is.
