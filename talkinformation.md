@@ -24,7 +24,7 @@ Steps to add/update information about a talk:
 		* "TU Berlin, at BMS Seminar Room (MA212)"
 -Abstract
 	+Abstract of the talk where the sequence of consecutive "bla " is.
-	+For a paragraph break, use "</p><p>" adding the substituting the "<p>" of the old paragraph environment by "<p style="margin:0;">" so that there is no space between the paragraphs.
+	+For a paragraph break, use "</p><p>" adding the substituting the "<p>" of the old paragraph environment by "<p style="margin:0;">" so that there is no space between the paragraphs. Also one can just employ "<br>", but this is not a good practice in HTML programming.
 -Video
 	+Check if there is a public video of the talk in Vimeo
 	+If that's the case, uncomment the Vimeo video code pasting the numerical code of the Video in the place of the number 160594229 that is in the address between "video/" and "?color=".
@@ -44,4 +44,4 @@ Steps to add/update information about a talk:
 </url>
 where the first date is the identifier of the HTML file of the talk and the second one the day of creation modification of the talk. If the file is just being modified, then just update the date of the code present in the XML file.
 
-6. If this is a current talk, paste the relevant part of the code in the currenttalk.html file, so that it remains updated.
+6. If this is a current talk, paste the relevant part of the code in the currenttalk.html file, so that it remains updated. Don't erase the sentences concerning the weeks that there are no talks. These has just to be commented out.
