@@ -30,12 +30,27 @@
  </url>
 
  <url>
+  <loc>https://whatisseminar.xyz/map/fu_map.jpg</loc>
+  <lastmod>2019-05-08</lastmod>
+ </url>
+
+ <url>
   <loc>https://whatisseminar.xyz/map/directionshu.pdf</loc>
   <lastmod>2019-05-08</lastmod>
 </url>
 
 <url>
+ <loc>https://whatisseminar.xyz/map/hu_map.jpg</loc>
+ <lastmod>2019-05-08</lastmod>
+</url>
+
+<url>
  <loc>https://whatisseminar.xyz/map/directionstu.pdf</loc>
+ <lastmod>2019-05-08</lastmod>
+</url>
+
+<url>
+ <loc>https://whatisseminar.xyz/map/tu_map.jpg</loc>
  <lastmod>2019-05-08</lastmod>
 </url>
 
@@ -110,6 +125,61 @@
        Summer Semester 2014/15
        =================================================== -->
 
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20141024.html</loc>
+         <lastmod>2014-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20141031.html</loc>
+         <lastmod>2014-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20141114.html</loc>
+         <lastmod>2014-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20141128.html</loc>
+         <lastmod>2014-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20141205.html</loc>
+         <lastmod>2014-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20141212.html</loc>
+         <lastmod>2014-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20150109.html</loc>
+         <lastmod>2014-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20150116.html</loc>
+         <lastmod>2014-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20150123.html</loc>
+         <lastmod>2014-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20150206.html</loc>
+         <lastmod>2014-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20150217.html</loc>
+         <lastmod>2014-05-16</lastmod>
+       </url>
+
   <!-- ===================================================
        Summer Semester 2015
        =================================================== -->
@@ -135,7 +205,7 @@
          <loc>https://whatisseminar.xyz/talks/20160429.html</loc>
          <lastmod>2019-05-11</lastmod>
        </url>
-  
+
        <url>
          <loc>https://whatisseminar.xyz/talks/20160513.html</loc>
          <lastmod>2019-05-11</lastmod>
@@ -150,17 +220,64 @@
          <loc>https://whatisseminar.xyz/talks/20160708.html</loc>
          <lastmod>2019-05-11</lastmod>
        </url>
-  
+
   <!-- ===================================================
        Winter Semester 2016/17
        =================================================== -->
 
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20161021.html</loc>
+         <lastmod>2019-05-12</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20161104.html</loc>
+         <lastmod>2019-05-12</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20161216.html</loc>
+         <lastmod>2019-05-12</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20170113.html</loc>
+         <lastmod>2019-05-12</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20170127.html</loc>
+         <lastmod>2019-05-12</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20170221.html</loc>
+         <lastmod>2019-05-16</lastmod>
+       </url>
 
   <!-- ===================================================
        Summer Semester 2017
        =================================================== -->
 
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20170421.html</loc>
+         <lastmod>2019-05-16</lastmod>
+       </url>
 
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20170421.html</loc>
+         <lastmod>2019-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20170505.html</loc>
+         <lastmod>2019-05-16</lastmod>
+       </url>
+
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20170602.html</loc>
+         <lastmod>2019-05-16</lastmod>
+       </url>
 
   <!-- ===================================================
        Winter Semester 2017/18
@@ -170,7 +287,7 @@
          <loc>https://whatisseminar.xyz/talks/20171027.html</loc>
          <lastmod>2019-05-07</lastmod>
        </url>
-  
+
        <url>
          <loc>https://whatisseminar.xyz/talks/20171103.html</loc>
          <lastmod>2019-05-09</lastmod>
@@ -185,7 +302,7 @@
          <loc>https://whatisseminar.xyz/talks/20171124.html</loc>
          <lastmod>2019-05-07</lastmod>
        </url>
-  
+
        <url>
          <loc>https://whatisseminar.xyz/talks/20171208.html</loc>
          <lastmod>2019-05-09</lastmod>
@@ -195,7 +312,7 @@
          <loc>https://whatisseminar.xyz/talks/20171215.html</loc>
          <lastmod>2019-05-07</lastmod>
        </url>
-  
+
        <url>
          <loc>https://whatisseminar.xyz/talks/20180112.html</loc>
          <lastmod>2019-05-09</lastmod>
@@ -218,7 +335,7 @@
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20180220.html</loc>
-         <lastmod>2019-05-07</lastmod>
+         <lastmod>2019-05-16</lastmod>
        </url>
 
 <!-- ===================================================
@@ -341,6 +458,16 @@
      <url>
        <loc>https://whatisseminar.xyz/talks/20190503.html</loc>
        <lastmod>2019-05-08</lastmod>
+     </url>
+
+     <url>
+       <loc>https://whatisseminar.xyz/talks/20190531.html</loc>
+       <lastmod>2019-05-13</lastmod>
+     </url>
+
+     <url>
+       <loc>https://whatisseminar.xyz/talks/20190614.html</loc>
+       <lastmod>2019-05-13</lastmod>
      </url>
 
 </urlset>
