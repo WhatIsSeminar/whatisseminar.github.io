@@ -1,7 +1,7 @@
 Steps to add/update information about a talk:
 1. Creation of file. Duplicate the file "template_talk.html" with the name "YYYYMMDD.html" where YYYYMMDD is the date of the talk in the folder "Talks". This will make the identifier unique and systematic. If the talk is at Urania, one can use "template_BMSFriday_talk_at_Urania.html".
 
-2. Meta information. Put the title of the talk in the meta tag title and below the complete name of the speaker in the meta tag of the description. The name of the talk should be included here as "What is/are TOPIC-OF-THE-TALK?"
+2. Meta information. Put the title of the talk in the meta tag title and below the complete name of the speaker in the meta tag of the description. The name of the talk should be included here as "What is/are TOPIC-OF-THE-TALK?". Note: Cancel the "are" comment if not used (else it appears at the top of the page.
 
 3. Update information of the talk in the body.
 -Choose "What is..." or "What are..." depending on grammatical number of what comes next. Just erase the one that does not belong there.
