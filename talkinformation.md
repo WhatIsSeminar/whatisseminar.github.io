@@ -1,7 +1,7 @@
 Steps to add/update information about a talk:
 1. Creation of file. Duplicate the file "template_talk.html" with the name "YYYYMMDD.html" where YYYYMMDD is the date of the talk in the folder "Talks". This will make the identifier unique and systematic. If the talk is at Urania, one can use "template_BMSFriday_talk_at_Urania.html".
 
-2. Meta information. Put the title of the talk in the meta tag title and below the complete name of the speaker in the meta tag of the description. The name of the talk should be included here as "What is/are TOPIC-OF-THE-TALK?"
+2. Meta information. Put the title of the talk in the meta tag title and below the complete name of the speaker in the meta tag of the description. The name of the talk should be included here as "What is/are TOPIC-OF-THE-TALK?". Note: Cancel the "are" comment if not used (else it appears at the top of the page.
 
 3. Update information of the talk in the body.
 -Choose "What is..." or "What are..." depending on grammatical number of what comes next. Just erase the one that does not belong there.
@@ -12,7 +12,7 @@ Steps to add/update information about a talk:
 	+Complete name of the speaker where "Speaker" is.
 	+Institution of the speaker where "University Berlin" is. Use "FU/HU/TU Berlin" instead of just "FU/HU/TU".
 -Date
-	+Date of the talk of the talk in the place of "YYY/MM/DD"
+	+Date of the talk of the talk in the place of "YYYY/MM/DD"
 	+Time of the talk in the place of "13:00".
 	+If the talk takes place on a BMS Friday uncomment the break and put the complete name of the professor in the place of "XYZ".
 	+If the talk took place during the BMS Days add to this line "during the BMS Days". Similarly for other special BMS events.
@@ -39,7 +39,7 @@ Steps to add/update information about a talk:
 
 5.Update the sitemap.xml file by adding the code
 <url>
-<loc>https://whatisseminar.xyz/talks/YYYMMDD.html</loc>
+<loc>https://whatisseminar.xyz/talks/YYYYMMDD.html</loc>
 <lastmod>YYYY-MM-DD</lastmod>
 </url>
 where the first date is the identifier of the HTML file of the talk and the second one the day of creation modification of the talk. If the file is just being modified, then just update the date of the code present in the XML file.
