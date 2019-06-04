@@ -1,0 +1,68 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+html body{
+background-color : #FFFFFF;
+}
+body {
+  margin-top: 35px;
+  padding-top: 2rem;
+}
+
+.jumbotron {
+    margin-bottom: 50px;
+    background-color: white;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    text-shadow: black 0em 0em 0em;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 0.05px;
+  width: auto;
+}
+
+.navbar-default {
+  background-color:teal;
+  color: blue;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: #FF69B4;
+}
+.navbar-nav > li >.nav-link a{
+  color:black;
+}
+
+/*Maybe the important can be quit in the future, for now, this works*/
+.navbar-nav > .active > a{color: black!important; background-color: #FFFFFF;}
+.navbar-nav > li > a:hover{color: black!important; background-color: #FFFFFF;}
+.navbar-nav > li > a{color: #FFFFFF!important; font-size: 1.3em;}
+
+a, a:active, a:hover{
+    color: #FF69B4;
+    font-style:normal;
+    font-variant: normal;
+    font-size: medium;
+}
+
+h2 {
+  font-weight:700;
+  color:#FF69B4;
+}
+
+h3 {
+  color:#FF69B4;
+}
+
+p{
+  text-align:justify;
+}
