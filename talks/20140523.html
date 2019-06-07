@@ -5,6 +5,7 @@
     <link rel="icon" href="../imgs/iconweb.png"/>
     <meta name="google" content="notranslate" />
     <meta http-equiv="Content-Language" content="en"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>What is a partial zeta function?</title>
     <meta name="description" content="Talk by Miguel Grados in the &ldquo;What is...?&rdquo; Seminar in Berlin" />
 
@@ -115,7 +116,24 @@
     <script src="../js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../js/ie10-viewport-bug-workaround.js"></script>
-    <script type="text/javascript"></script>
+<!-- For phone -->
+<script type="text/javascript">
+<!--
+if (screen.width <= 699) {
+var x;
+x = document.getElementsByClassName("navbar-brand");
+x[0].innerHTML = "w?S";
+x = document.getElementsByClassName("col-md-2");
+var i;
+  for (i = 0; i < 4; i++) {
+   x[i].style="text-align:left;";
+  }
+x = document.getElementsByClassName("display-3");
+x[0].className="";
+}
+//-->
+</script>
+    
     <!-- For math expression-->
     <script type="text/x-mathjax-config">
       MathJax.Hub.Config({

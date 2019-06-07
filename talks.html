@@ -5,6 +5,7 @@
     <link rel="icon" href="./imgs/iconweb.png"/>
     <meta name="google" content="notranslate" />
     <meta http-equiv="Content-Language" content="en"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>All talks of the "What is...?" Seminar</title>
     <meta name="description" content="List of all the past talks of the &ldquo;What is...?&rdquo; Seminar" />
 
@@ -1364,7 +1365,19 @@ The talks until 2008/07/03 were held in German.
     <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
-    <script type="text/javascript"></script>
+    <!-- For phone -->
+    <script type="text/javascript">
+    <!--
+    if (screen.width <= 699) {
+    x = document.getElementsByClassName("navbar-brand");
+    x[0].innerHTML = "w?S";
+    document.getElementById("navbarCV").innerHTML="";
+    x = document.getElementsByClassName("display-4");
+    x[0].className="";
+    x[0].className="";
+    }
+    //-->
+    </script>
     <!-- For math expression-->
     <script type="text/x-mathjax-config">
       MathJax.Hub.Config({

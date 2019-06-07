@@ -5,6 +5,7 @@
     <link rel="icon" href="./imgs/iconweb.png"/>
     <meta name="google" content="notranslate" />
     <meta http-equiv="Content-Language" content="en"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>10th Anniversary of the "What is...?" Seminar</title>
     <meta name="description" content="Celebration of the 10th Anniversary on the 8th of June of 2018 where several past organizers commented on their experiences" />
 
@@ -120,7 +121,7 @@
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/277252675?color=FF69B4&byline=0&portrait=0&title=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
     <script src="https://player.vimeo.com/api/player.js"></script>
   </div>
-  <div class="col-md-6">
+  <div id="special" class="col-md-6">
     <img itemprop="image" width=100% src="imgs/10An3.jpg" alt="Few words by Prof. Jürg Kramer at the 10th Annyversary of the WhatIsSeminar"/>
     <p style="text-align:center;">Few words by Prof. Jürg Kramer</p>
   </div>
@@ -153,7 +154,22 @@
     <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
-    <script type="text/javascript"></script>
+    <!-- For phone -->
+    <script type="text/javascript">
+    <!--
+    if (screen.width <= 699) {
+    var x;
+    x = document.getElementsByClassName("navbar-brand");
+    x[0].innerHTML = "w?S";
+    x = document.getElementsByClassName("col-md-2");
+    var i;
+      for (i = 0; i < 4; i++) {
+       x[i].style="text-align:left;";
+      }
+    document.getElementById("special").style="padding-top:1em;";
+    }
+    //-->
+    </script>
     <!-- For math expression-->
     <script type="text/x-mathjax-config">
       MathJax.Hub.Config({

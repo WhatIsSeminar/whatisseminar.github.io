@@ -5,6 +5,7 @@
     <link rel="icon" href="./imgs/iconweb.png"/>
     <meta name="google" content="notranslate" />
     <meta http-equiv="Content-Language" content="en"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Credits for the "What is...?" Seminar</title>
     <meta name="description" content="Information on how to obtain credits for attending the &ldquo;What is...?%rdquo; Seminar" />
 
@@ -22,7 +23,7 @@
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <a class="navbar-brand" href="index.html"style="font-size:2.3em;font-weight:450;">$``\vec{w}h\alpha\mathfrak{t}\;\; i\mathbb{S}\ldots\text{?''}$ Seminar</a>
+      <a class="navbar-brand" href="index.html" style="font-size:2.3em;font-weight:450;">$``\vec{w}h\alpha\mathfrak{t}\;\; i\mathbb{S}\ldots\text{?''}$ Seminar</a>
 
       <div class="collapse navbar-collapse " id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
@@ -78,7 +79,15 @@
     <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
-    <script type="text/javascript"></script>
+    <!-- For phone -->
+    <script type="text/javascript">
+    <!--
+    if (screen.width <= 699) {
+    x = document.getElementsByClassName("navbar-brand");
+    x[0].innerHTML = "w?S";
+    }
+    //-->
+    </script>
     <!-- For math expression-->
     <script type="text/x-mathjax-config">
       MathJax.Hub.Config({

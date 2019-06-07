@@ -3,60 +3,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://whatisseminar.xyz/</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-06-07</lastmod>
   <priority>1</priority>
    </url>
 
    <url>
   <loc>https://whatisseminar.xyz/index.html</loc>
-    <lastmod>2019-05-08</lastmod>
+    <lastmod>2019-06-07</lastmod>
     <priority>1</priority>
    </url>
 
    <url>
     <loc>https://whatisseminar.xyz/contact.html</loc>
-    <lastmod>2019-05-08</lastmod>
+    <lastmod>2019-06-07</lastmod>
     <priority>0.8</priority>
    </url>
 
    <url>
     <loc>https://whatisseminar.xyz/credits.html</loc>
-    <lastmod>2019-05-08</lastmod>
+    <lastmod>2019-06-07</lastmod>
   </url>
 
   <url>
    <loc>https://whatisseminar.xyz/map/directionsfu.pdf</loc>
-   <lastmod>2019-05-08</lastmod>
+   <lastmod>2019-06-07</lastmod>
  </url>
 
  <url>
   <loc>https://whatisseminar.xyz/map/fu_map.jpg</loc>
-  <lastmod>2019-05-08</lastmod>
+  <lastmod>2019-06-07</lastmod>
  </url>
 
  <url>
   <loc>https://whatisseminar.xyz/map/directionshu.pdf</loc>
-  <lastmod>2019-05-08</lastmod>
+  <lastmod>2019-06-07</lastmod>
 </url>
 
 <url>
  <loc>https://whatisseminar.xyz/map/hu_map.jpg</loc>
- <lastmod>2019-05-08</lastmod>
+ <lastmod>2019-06-07</lastmod>
 </url>
 
 <url>
  <loc>https://whatisseminar.xyz/map/directionstu.pdf</loc>
- <lastmod>2019-05-08</lastmod>
+ <lastmod>2019-06-07</lastmod>
 </url>
 
 <url>
  <loc>https://whatisseminar.xyz/map/tu_map.jpg</loc>
- <lastmod>2019-05-08</lastmod>
+ <lastmod>2019-06-07</lastmod>
 </url>
 
 <url>
  <loc>https://whatisseminar.xyz/map/directionsurania.pdf</loc>
- <lastmod>2019-05-08</lastmod>
+ <lastmod>2019-06-07</lastmod>
 </url>
 
   <url>
@@ -67,18 +67,18 @@
 
   <url>
     <loc>https://whatisseminar.xyz/organization.html</loc>
-    <lastmod>2019-05-08</lastmod>
+    <lastmod>2019-06-07</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://whatisseminar.xyz/speakers.html</loc>
-    <lastmod>2019-05-08</lastmod>
+    <lastmod>2019-06-07</lastmod>
   </url>
 
   <url>
     <loc>https://whatisseminar.xyz/anniversary10.html</loc>
-    <lastmod>2019-05-08</lastmod>
+    <lastmod>2019-06-07</lastmod>
   </url>
 
   <!-- ===================================================
@@ -122,15 +122,15 @@
        =================================================== -->
        <url>
          <loc>https://whatisseminar.xyz/talks/20140425.html</loc>
-         <lastmod>2019-05-28</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 	<url>
          <loc>https://whatisseminar.xyz/talks/20140509.html</loc>
-         <lastmod>2019-05-28</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 	<url>
          <loc>https://whatisseminar.xyz/talks/20140523.html</loc>
-         <lastmod>2019-05-28</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
   <!-- ===================================================
        Summer Semester 2014/15
@@ -138,57 +138,57 @@
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20141024.html</loc>
-         <lastmod>2014-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20141031.html</loc>
-         <lastmod>2014-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20141114.html</loc>
-         <lastmod>2014-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20141128.html</loc>
-         <lastmod>2014-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20141205.html</loc>
-         <lastmod>2014-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20141212.html</loc>
-         <lastmod>2014-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20150109.html</loc>
-         <lastmod>2014-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20150116.html</loc>
-         <lastmod>2014-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20150123.html</loc>
-         <lastmod>2014-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20150206.html</loc>
-         <lastmod>2014-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20150217.html</loc>
-         <lastmod>2014-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
   <!-- ===================================================
@@ -196,39 +196,39 @@
        =================================================== -->
        <url>
          <loc>https://whatisseminar.xyz/talks/20150424.html</loc>
-         <lastmod>2019-05-20</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 	<url>
          <loc>https://whatisseminar.xyz/talks/20150508.html</loc>
-         <lastmod>2019-05-20</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 	<url>
          <loc>https://whatisseminar.xyz/talks/20150605.html</loc>
-         <lastmod>2019-05-20</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 	<url>
          <loc>https://whatisseminar.xyz/talks/20150612.html</loc>
-         <lastmod>2019-05-20</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 	<url>
          <loc>https://whatisseminar.xyz/talks/20150619.html</loc>
-         <lastmod>2019-05-20</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 	<url>
          <loc>https://whatisseminar.xyz/talks/20160710.html</loc>
-         <lastmod>2019-05-20</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
   <!-- ===================================================
        Winter Semester 2015/16
        =================================================== -->
 	<url>
 	  <loc>https://whatisseminar.xyz/talks/20151016.html</loc>
-	  <lastmod>2019-05-16</lastmod>
+	  <lastmod>2019-06-07</lastmod>
 	</url>
 
 	<url>
 	  <loc>https://whatisseminar.xyz/talks/20151030.html</loc>
-	  <lastmod>2019-05-16</lastmod>
+	  <lastmod>2019-06-07</lastmod>
 	</url>
 
 
@@ -237,22 +237,22 @@
        =================================================== -->
        <url>
          <loc>https://whatisseminar.xyz/talks/20160429.html</loc>
-         <lastmod>2019-05-11</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20160513.html</loc>
-         <lastmod>2019-05-11</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20160617.html</loc>
-         <lastmod>2019-05-11</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20160708.html</loc>
-         <lastmod>2019-05-11</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
   <!-- ===================================================
@@ -261,32 +261,32 @@
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20161021.html</loc>
-         <lastmod>2019-05-12</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20161104.html</loc>
-         <lastmod>2019-05-12</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20161216.html</loc>
-         <lastmod>2019-05-12</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20170113.html</loc>
-         <lastmod>2019-05-12</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20170127.html</loc>
-         <lastmod>2019-05-12</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20170221.html</loc>
-         <lastmod>2019-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
   <!-- ===================================================
@@ -295,42 +295,42 @@
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20170421.html</loc>
-         <lastmod>2019-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20170421.html</loc>
-         <lastmod>2019-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20170505.html</loc>
-         <lastmod>2019-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20170602.html</loc>
-         <lastmod>2019-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20170630.html</loc>
-         <lastmod>2019-05-18</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20170707.html</loc>
-         <lastmod>2019-05-18</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20170714.html</loc>
-         <lastmod>2019-05-18</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20170721.html</loc>
-         <lastmod>2019-05-18</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
   <!-- ===================================================
@@ -339,57 +339,57 @@
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20171027.html</loc>
-         <lastmod>2019-05-07</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20171103.html</loc>
-         <lastmod>2019-05-09</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20171110.html</loc>
-         <lastmod>2019-05-07</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20171124.html</loc>
-         <lastmod>2019-05-07</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20171208.html</loc>
-         <lastmod>2019-05-09</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20171215.html</loc>
-         <lastmod>2019-05-07</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20180112.html</loc>
-         <lastmod>2019-05-09</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20180119.html</loc>
-         <lastmod>2019-05-07</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20180202.html</loc>
-         <lastmod>2019-05-08</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20180216.html</loc>
-         <lastmod>2019-05-08</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
        <url>
          <loc>https://whatisseminar.xyz/talks/20180220.html</loc>
-         <lastmod>2019-05-16</lastmod>
+         <lastmod>2019-06-07</lastmod>
        </url>
 
 <!-- ===================================================
@@ -398,42 +398,42 @@
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20180427.html</loc>
-       <lastmod>2019-05-08</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20180518.html</loc>
-       <lastmod>2019-05-08</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20180601.html</loc>
-       <lastmod>2019-05-08</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20180608.html</loc>
-       <lastmod>2019-05-08</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20180615.html</loc>
-       <lastmod>2019-05-08</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20180629.html</loc>
-       <lastmod>2019-05-08</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20180706.html</loc>
-       <lastmod>2019-05-08</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20180713.html</loc>
-       <lastmod>2019-05-08</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
 <!-- ===================================================
@@ -442,57 +442,57 @@
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20181026.html</loc>
-       <lastmod>2019-05-01</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20181109.html</loc>
-       <lastmod>2019-05-01</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20181116.html</loc>
-       <lastmod>2019-05-01</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20181130.html</loc>
-       <lastmod>2019-05-01</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20181207.html</loc>
-       <lastmod>2019-05-01</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20181214.html</loc>
-       <lastmod>2019-05-06</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20190111.html</loc>
-       <lastmod>2019-05-06</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20190118.html</loc>
-       <lastmod>2019-05-02</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20190201.html</loc>
-       <lastmod>2019-05-02</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20190208.html</loc>
-       <lastmod>2019-05-02</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20190219.html</loc>
-       <lastmod>2019-05-02</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
 <!-- ===================================================
@@ -501,32 +501,32 @@
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20190412.html</loc>
-       <lastmod>2019-05-06</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20190426.html</loc>
-       <lastmod>2019-05-01</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20190503.html</loc>
-       <lastmod>2019-05-08</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20190524.html</loc>
-       <lastmod>2019-06-06</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20190531.html</loc>
-       <lastmod>2019-05-27</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>
        <loc>https://whatisseminar.xyz/talks/20190607.html</loc>
-       <lastmod>2019-06-04</lastmod>
+       <lastmod>2019-06-07</lastmod>
      </url>
 
      <url>

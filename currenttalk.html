@@ -5,6 +5,8 @@
     <link rel="icon" href="./imgs/iconweb.png"/>
     <meta name="google" content="notranslate" />
     <meta http-equiv="Content-Language" content="en"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Current talk of the "What is...?" Seminar</title>
     <meta name="description" content="Information about the next talk that will take place in the &ldquo;What is...?&rdquo; Seminar" />
 
@@ -37,7 +39,7 @@
 </div>
 
 
-	  
+
     <!--  Jumbotron just for current talk!  -->
 
 <div class="jumbotron">
@@ -88,7 +90,7 @@
       <p>
         Commonly, the <i>regularity</i> of a function describes how well it is approximated by polynomials. This understanding breaks down when we consider solutions to PDEs perturbed by a highly irregular stochastic object called <i>white noise</i>: Polynomials are simply too crude to be the right approximating quantity in this case, but <b>what is</b>?
 <br>
-To answer this question, I will introduce the notion of <b>a regularity structure</b> pioneered by Martin Hairer. We will see that it is a far-reaching generalisation of Taylor series that is robust enough to set up a solution theory for afore-mentioned (stochastic) PDEs. 
+To answer this question, I will introduce the notion of <b>a regularity structure</b> pioneered by Martin Hairer. We will see that it is a far-reaching generalisation of Taylor series that is robust enough to set up a solution theory for afore-mentioned (stochastic) PDEs.
       </p>
     </div>
   </div>
@@ -124,7 +126,23 @@ c.t. at the BMS loft in the Urania, before the <a href =
     <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
-    <script type="text/javascript"></script>
+    <!-- For phone -->
+    <script type="text/javascript">
+    <!--
+    if (screen.width <= 699) {
+    var x;
+    x = document.getElementsByClassName("navbar-brand");
+    x[0].innerHTML = "w?S";
+    x = document.getElementsByClassName("col-md-2");
+    var i;
+      for (i = 0; i < 4; i++) {
+       x[i].style="text-align:left;";
+      }
+    x = document.getElementsByClassName("display-3");
+    x[0].className="";
+    }
+    //-->
+    </script>
     <!-- For math expression-->
     <script type="text/x-mathjax-config">
       MathJax.Hub.Config({

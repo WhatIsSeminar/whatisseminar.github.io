@@ -5,6 +5,7 @@
     <link rel="icon" href="./imgs/iconweb.png"/>
     <meta name="google" content="notranslate" />
     <meta http-equiv="Content-Language" content="en"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>"What is...?" Seminar</title>
     <meta name="description" content="Weekly seminar organized by mathematics students of the Berlin Mathematical School and the three Berlin universities in which the speaker introduces new concepts to unfamiliar audiences." />
 
@@ -69,7 +70,7 @@
 <div class="jumbotron">
       <div class="container">
         <center>
-        <img itemprop="image" width=85% src="imgs/WhatIsWall - Multilingual.png" alt="WhatIsSeminarLogo - Design by Josue Tonelli-Cueto"/>
+        <img id="WISlogo" itemprop="image" width=85% src="imgs/WhatIsWall - Multilingual.png" alt="WhatIsSeminarLogo - Design by Josue Tonelli-Cueto"/>
         <h2 class="display-4"><b>Seminar</b></h2>
         </center>
      </div>
@@ -77,10 +78,18 @@
 
 
 <div class="container">
-<hr><center>
-<a class="btn btn-secondary" href="talks.html" role="button">All talks</a>&emsp;&emsp;<a class="btn btn-secondary" href="currenttalk.html" role="button">Current talk</a>&emsp;&emsp;<a class="btn btn-secondary" href="https://lists.spline.inf.fu-berlin.de/mailman/listinfo/was_ist_eigentlich___" role="button">Mailing list</a>
-
-
+<hr>
+<div class="row">
+  <div class="col-md-4">
+    <a class="btn btn-secondary" href="talks.html" role="button">All talks</a>
+  </div>
+  <div class="col-md-4">
+    <a class="btn btn-secondary" href="currenttalk.html" role="button">Current talk</a>
+  </div>
+  <div class="col-md-4">
+    <a class="btn btn-secondary" href="https://lists.spline.inf.fu-berlin.de/mailman/listinfo/was_ist_eigentlich___" role="button">Mailing list</a>
+  </div>
+</div>
 </center><hr>
 <div id="what">
   <h2>What is the $``\vec{w}h\alpha\mathfrak{t}\;\; i\mathbb{S}\ldots\text{?''}$ Seminar?</h2>
@@ -120,19 +129,28 @@
 <hr>
 <div id="more">
   <h2>More?</h2>
-  <br>
-  <center>
-  <a class="btn btn-secondary" href="organization.html#join" role="button">Join the organizers!</a>&emsp;
-  <a class="btn btn-secondary" href="speakers.html#giveatalk" role="button">Do you want to give a talk?</a>&emsp;
+  <div class="row">
+    <div class="col-md-4">
+  <a class="btn btn-secondary" href="organization.html#join" role="button">Join the organizers!</a>
+    </div>
+    <div class="col-md-4">
+  <a class="btn btn-secondary" href="speakers.html#giveatalk" role="button">Do you want to give a talk?</a>
+</div>
+<div class="col-md-4">
   <a class="btn btn-secondary" href="anniversary10.html" role="button">10th Anniversary Celebration</a>
-  </center>
-  <br>
-  <center>
-  <a class="btn btn-secondary" href="https://vimeo.com/album/1620836" role="button">Vimeo Album</a>&emsp;
-  <a class="btn btn-secondary" href="speakers.html#instructions" role="button">Information for speakers</a>&emsp;
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+  <a class="btn btn-secondary" href="https://vimeo.com/album/1620836" role="button">Vimeo Album</a>
+</div>
+<div class="col-md-4">
+  <a class="btn btn-secondary" href="speakers.html#instructions" role="button">Information for speakers</a>
+</div>
+<div class="col-md-4">
   <a class="btn btn-secondary" href="credits.html" role="button">Credits for students</a>
-  </center>
-  <br>
+</div>
+</div>
 </div>
 <hr>
 <div id="support">
@@ -163,7 +181,16 @@
     <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
-    <script type="text/javascript"></script>
+    <!-- For phone -->
+    <script type="text/javascript">
+    <!--
+    if (screen.width <= 699) {
+    x = document.getElementsByClassName("navbar-brand");
+    x[0].innerHTML = "w?S";
+    document.getElementById("navbarCV").innerHTML="";
+    }
+    //-->
+    </script>
     <!-- For math expression-->
     <script type="text/x-mathjax-config">
       MathJax.Hub.Config({
