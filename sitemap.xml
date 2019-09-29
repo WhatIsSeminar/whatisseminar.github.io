@@ -108,11 +108,30 @@
   <!-- ===================================================
        Winter Semester 2012/13
        =================================================== -->
-
+       <url>
+         <loc>https://whatisseminar.xyz/talks/20121019.html</loc>
+         <lastmod>2019-09-29</lastmod>
+	</url>
+	<url>
+         <loc>https://whatisseminar.xyz/talks/20121026.html</loc>
+         <lastmod>2019-09-29</lastmod>
+       </url>
+	<url>
+         <loc>https://whatisseminar.xyz/talks/20121102.html</loc>
+         <lastmod>2019-09-29</lastmod>
+       </url>
+	<url>
+         <loc>https://whatisseminar.xyz/talks/20121109.html</loc>
+         <lastmod>2019-09-29</lastmod>
+       </url>
+	<url>
+         <loc>https://whatisseminar.xyz/talks/20121123.html</loc>
+         <lastmod>2019-09-29</lastmod>
+       </url>
   <!-- ===================================================
        Summer Semester 2013
        =================================================== -->
-<url>
+       <url>
          <loc>https://whatisseminar.xyz/talks/20130419.html</loc>
          <lastmod>2019-08-17</lastmod>
        </url>
