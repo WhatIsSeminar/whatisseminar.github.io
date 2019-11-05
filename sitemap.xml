@@ -93,33 +93,6 @@
          <priority>0.7</priority>
        </url>
 <!-- ===================================================
-       Winter Semester 2008/2009
-=================================================== -->
-       <url>
-	  <loc>https://whatisseminar.xyz/talks/20090109.html</loc>
- 	  <lastmod>2019-11-03</lastmod>
-	</url>
-	<url>
-	  <loc>https://whatisseminar.xyz/talks/20090116.html</loc>
- 	  <lastmod>2019-11-03</lastmod>
-	</url>
-	<url>
-	  <loc>https://whatisseminar.xyz/talks/20090123.html</loc>
- 	  <lastmod>2019-11-03</lastmod>
-	</url>
-	<url>
-	  <loc>https://whatisseminar.xyz/talks/20090130.html</loc>
- 	  <lastmod>2019-11-03</lastmod>
-	</url>
-	<url>
-	  <loc>https://whatisseminar.xyz/talks/20090206.html</loc>
- 	  <lastmod>2019-11-03</lastmod>
-	</url>
-	<url>
-	  <loc>https://whatisseminar.xyz/talks/20090213.html</loc>
- 	  <lastmod>2019-11-03</lastmod>
-	</url>
-<!-- ===================================================
        Summer Semester 2009
 =================================================== -->
        <url>
@@ -136,7 +109,7 @@
 	</url>
 	<url>
 	  <loc>https://whatisseminar.xyz/talks/20090522.html</loc>
- 	  <lastmod>2019-11-03</lastmod>
+ 	  <lastmod>2019-10-17</lastmod>
 	</url>
 	<url>
 	  <loc>https://whatisseminar.xyz/talks/20090605.html</loc>
@@ -148,11 +121,11 @@
 	</url>
 	<url>
 	  <loc>https://whatisseminar.xyz/talks/20090626.html</loc>
- 	  <lastmod>2019-11-03</lastmod>
+ 	  <lastmod>2019-10-17</lastmod>
 	</url>
 	<url>
 	  <loc>https://whatisseminar.xyz/talks/20090703.html</loc>
- 	  <lastmod>2019-11-03</lastmod>
+ 	  <lastmod>2019-10-17</lastmod>
 	</url>
 <!-- ===================================================
        Winter Semester 2010/11
