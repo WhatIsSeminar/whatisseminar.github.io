@@ -1,1 +1,176 @@
+<!DOCTYPE html>
+<!-- Microdata markup added by Google Structured Data Markup Helper. -->
+<html lang="en"><head>
+    <meta charset="utf-8"/>
+    <link rel="icon" href="../imgs/iconweb.png"/>
+    <meta name="google" content="notranslate" />
+    <meta http-equiv="Content-Language" content="en"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Was ist eigentlich ein Ultrafilter (und was kann man damit anstellen)?</title>
+    <meta name="description" content="Peter Krautzbergers Vortrag beim &ldquo;Was ist eigentlich...?&rdquo; Seminar in Berlin" />
 
+    <!--  Bootstrap core CSS  -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet"/>
+
+    <!--  Custom styles for this template  -->
+    <link href="../css/style.css" rel="stylesheet"/>
+    <link href="../css/socialmedia.css" rel="stylesheet"/>
+</head>
+
+  <body>
+<div class="fixed-top" data-toggle="affix">
+   <nav class="navbar navbar-toggleable-md navbar-inverse navbar-custom" id="general">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <a class="navbar-brand" href="../index.html"style="font-size:2.3em;font-weight:450;">$``\vec{w}h\alpha\mathfrak{t}\;\; i\mathbb{S}\ldots\text{?''}$ Seminar</a>
+
+      <div class="collapse navbar-collapse " id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
+
+	         <li class="nav-item"><a class="nav-link" href="../talks.html">All talks</a></li>
+
+          <li class="nav-item"><a class="nav-link" href="../currenttalk.html">This week...</a></li>
+
+	        <li class="nav-item"><a class="nav-link" href="../organization.html">Organization</a></li>
+
+	        <li class="nav-item"><a class="nav-link" href="../contact.html">Contact</a></li>
+
+        </ul>
+      </div>
+
+    </nav>
+</div>
+
+
+<div class="container">
+  <hr>
+  <h2 class="display-3" style="color:black;">$\vec{w}\alpha\mathbb{S}\;\; i\int\mathfrak{t}\;\; \varepsilon I \mathbb{G} \mathrm{e} \mathbb N \tau \ell \imath \mathbb C \hbar \dots$</h2>
+  <h2 style="text-align:center;color:black;" class="display-4"> ein Ultrafilter (und was kann man damit anstellen)?</h2>
+  <hr>
+  <!-- ===== SPEAKER ============== -->
+  <div class="row">
+    <div class="col-md-2" style="text-align:right;">
+      <b>Wer?</b>
+    </div>
+    <div class="col-md-10">
+      Peter Krautzberger (FU Berlin)
+    </div>
+  </div>
+  <!-- ===== DATE and TIME ============== -->
+  <div class="row">
+    <div class="col-md-2" style="text-align:right;">
+      <b>Wann?</b>
+    </div>
+    <div class="col-md-10">
+      2008/05/22, 17:00
+    </div>
+  </div>
+  <!-- ===== PLACE ============== -->
+  <div class="row">
+    <div class="col-md-2" style="text-align:right;">
+      <b>Wo?</b>
+    </div>
+    <div class="col-md-10">
+      FU Berlin, Arnimallee 6, Raum 031
+    </div>
+  </div>
+ <!-- ===== BLACKBOARD IMAGES ============== -->
+  <div class="row">
+    <div class="col-md-2" style="text-align:right;">
+      <b>LaTeX Beamer Folien des Vortrags</b>
+    </div>
+    <div class="col-md-10">
+      <p>
+  <a href="/imgs/wasistultrafilter.pdf">Folien</a>.
+      </p>
+    </div>
+  </div>	
+  <!-- ===== ANSWERS TO QUESTIONS ============== -->
+  <div class="row">
+    <div class="col-md-2" style="text-align:right;">
+      <b>Tafelbilder</b>
+    </div>
+    <div class="col-md-10">
+      <p>
+Nathan fragte beim Thema Ultrapotenz von $\mathbb{R}$, ob es auch umgekehrt zu jedem maximalen Ideal des Rings $\mathbb{R}^\mathbb{N}$ einen Ultrafilter gibt, so dass die Ultrapotenz gerade dem Quotientenkörper entspricht. Dies ist der Fall. <br>
+<ul> Beweis: Sei $I$ maximales Ideal des Rings. Definiere $ U:= \{ A \subseteq \mathbb{N} \ |\ (\exists x \in I)\, A = x^{-1}( 0) \}$. Dann ist $ U $ schon Ultrafilter!
+<ul><li> $\mathbb{N} \in U$, denn die Nullfolge ist in $I$ (da additive Unterhalbgruppe); $ \emptyset \notin U$, denn jede Folge, die nirgends $ 0 $ ist, ist invertierbar (durch die Folge der Kehrwerte) -- $I$ ist aber echtes Ideal, enthält also keine Einheiten.</li>
+<li> Sind $ A,\, B\in U$, z.B. $A= x^{-1}(0),\, B = y^{-1}(0)$. Dann ist $x+y \in I$ (da additive Gruppe) und gerade (!) $x+y^{-1}(0) = A \cap B$.</li>
+<li>Ist $A\in U$ und $A \subseteq B$ und wieder $ A = x^{-1}(0)$, so ist für die charakteristische Funktion $\chi$ von $\mathbb{N} \setminus B$ (die genaue bei den Elementen von $B$ nur $0$ und sonst $1$ ist) gerade $x \cdot \chi^{-1} = B$ (!!) und $x \cdot \chi \in I$ (da Ideal).</li>
+<li>Zuletzt sei $ \mathbb{N} = A \cup B$ mit $ A \cap B = \emptyset$. Dann ist für die jeweiligen charakteristischen Funktionen $ \chi_A, \chi_B$ ja gerade $ \chi_A \cdot \chi_B (k) = 0 $ für jedes $ k\in \mathbb{N}$. Da in einem kommutativen Ring mit Eins jedes maximale Ideal prim ist, folgt, dass schon $\chi_A$ bzw. $ \chi_b $ in $I$, also $ B$ bzw. $ A$ in $U$ ist. Damit ist der Filter $U$ prim, also ein Ultrafilter.</li> </ul> </ul>  </p>
+Kleiner Hinweis: Das Argumentieren mit der charakteristischen Funktion ist etwas frickelig, weil die charakteristische Funktion einer Menge gerade dann im Ideal ist, wenn ihr Komplement im Filter ist. Das legt die Formulierung eines Ideal Begriffs dual zum Filterbegriff nahe, wie er auch in der Literatur vorhanden ist, d.h. ein Ideal dual zum Filter besteht aus den Komplementen der Filtermengen, ist abgeschlossen unter Vereinigungen und Teilmengen etc..  
+  </div>
+  </div>
+<!-- ===== COMMENTS AND CRITICISM ============== -->
+  <div class="row">
+    <div class="col-md-2" style="text-align:right;">
+      <b>Kommentare und Kritik</b>
+    </div>
+    <div class="col-md-10">
+      <p>
+  Der Vortrag war "zu kurz" -- Tobias Einwände wurden von mir (Peter) nicht verstanden. Ich hätte ja länger reden können, weil schon viele Fragen während des Vortrags kamen. Vorschlag: "Zeitplanung" sollte nicht vom Vortragenden übernommen werden. <br>
+-- krautzbe@PCPOOL/MI/FU-BERLIN.DE - 23 May 2008
+      </p>
+    </div>
+  </div>
+  <!-- ===== VIMEO (only when video is there, one should nly change the video code) ============== -->
+  <!--<hr>
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+      <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/160594229?color=FF69B4&byline=0&portrait=0&title=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+      <script src="https://player.vimeo.com/api/player.js"></script>
+    </div>
+    <div class="col-md-3"></div>
+  </div>-->
+  <hr>
+</div>
+
+
+<footer>
+<hr>
+    <p style="text-align:left;">&emsp;&emsp;&copy; $``\vec{w}h\alpha\mathfrak{t}\;\; i\mathbb{S}\ldots\text{?''}$ Seminar</p>
+<hr style="margin: 0;">
+</footer> <!--  /container  -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../js/ie10-viewport-bug-workaround.js"></script>
+<!-- For phone -->
+<script type="text/javascript">
+<!--
+if (screen.width <= 699) {
+var x;
+x = document.getElementsByClassName("navbar-brand");
+x[0].innerHTML = "w?S";
+x = document.getElementsByClassName("col-md-2");
+var i;
+  for (i = 0; i < 4; i++) {
+   x[i].style="text-align:left;";
+  }
+x = document.getElementsByClassName("display-3");
+x[0].className="";
+}
+//-->
+</script>
+    
+    <!-- For math expression-->
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+       tex2jax: {
+         inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        processEscapes: true
+        }
+       });
+    </script>
+     <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+  </body>
+</html>
