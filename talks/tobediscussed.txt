@@ -1,0 +1,9 @@
+20081212: Wikipedia links to Hindman's theorem, Ramsey theory, and ultrafilters deleted. This is in correspondance with the later abstracts.
+20081114: one page or two? Abstracts missing.
+20081031: after BMS Friday?
+20080717 and other places: I would omit the (almost meta-)link where Peter Krautzberger's comment leads
+20080522: there are actually two subtitles:
+"und was kann man damit anstellen" in the talk list
+"und was kann man damit anfangen" on the talk page
+I just kept the first one, but we can discuss it.
+20080609: I have no idea how to download the gifs.

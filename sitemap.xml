@@ -92,11 +92,81 @@
          <changefreq>monthly</changefreq>
          <priority>0.7</priority>
        </url>
-
-       <!-- ===================================================
-              Winter Semester 2008/2009
-       =================================================== -->
-              <url>
+<!-- ===================================================
+       Summer Semester 2009
+=================================================== -->
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20090522.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20090529.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20090605.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20090612.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20090619.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20090626.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20090703.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20090717.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+<!-- ===================================================
+       Winter Semester 2008/2009
+=================================================== -->
+        <url>
+       	  <loc>https://whatisseminar.xyz/talks/20091024.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20091031.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20091107.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url> 
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20091114.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20091121.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20091128.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20091205.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20091212.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
+       	  <loc>https://whatisseminar.xyz/talks/20091219.html</loc>
+        	  <lastmod>2019-11-10</lastmod>
+       	</url>
+	<url>
        	  <loc>https://whatisseminar.xyz/talks/20090109.html</loc>
         	  <lastmod>2019-11-10</lastmod>
        	</url>

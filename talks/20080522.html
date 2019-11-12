@@ -6,8 +6,8 @@
     <meta name="google" content="notranslate" />
     <meta http-equiv="Content-Language" content="en"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>TITEL</title>
-    <meta name="description" content="VORNAME NACHNAMEs Vortrag beim &ldquo;Was ist eigentlich...?&rdquo; Seminar in Berlin" />
+    <title> Was ist eigentlich ein Ultrafilter (und was kann man damit anstellen)?</title>
+    <meta name="description" content="Peter Krautzbergers Vortrag beim &ldquo;Was ist eigentlich...?&rdquo; Seminar in Berlin" />
 
     <!--  Bootstrap core CSS  -->
     <link href="../css/bootstrap.min.css" rel="stylesheet"/>
@@ -47,7 +47,7 @@
 <div class="container">
   <hr>
   <h2 class="display-3" style="color:black;">$\vec{w}\alpha\mathbb{S}\;\; i\int\mathfrak{t}\;\; \varepsilon I \mathbb{G} \mathrm{e} \mathbb N \tau \ell \imath \mathbb C \hbar \dots$</h2>
-  <h2 style="text-align:center;color:black;" class="display-4">whatever the talk is about?</h2>
+  <h2 style="text-align:center;color:black;" class="display-4"> ein Ultrafilter (und was kann man damit anstellen)?</h2>
   <hr>
   <!-- ===== SPEAKER ============== -->
   <div class="row">
@@ -55,7 +55,7 @@
       <b>Wer?</b>
     </div>
     <div class="col-md-10">
-      Speaker (University Berlin)
+      Peter Krautzberger (FU Berlin)
     </div>
   </div>
   <!-- ===== DATE and TIME ============== -->
@@ -64,7 +64,7 @@
       <b>Wann?</b>
     </div>
     <div class="col-md-10">
-      YYYY/MM/DD, 00:00
+      2008/05/22, 17:00
     </div>
   </div>
   <!-- ===== PLACE ============== -->
@@ -73,17 +73,45 @@
       <b>Wo?</b>
     </div>
     <div class="col-md-10">
-      Place
+      FU Berlin, Arnimallee 6, Raum 031
     </div>
   </div>
-  <!-- ===== ABSTRACT ============== -->
+ <!-- ===== BLACKBOARD IMAGES ============== -->
   <div class="row">
     <div class="col-md-2" style="text-align:right;">
-      <b>Worüber?</b>
+      <b>LaTeX Beamer Folien des Vortrags</b>
     </div>
     <div class="col-md-10">
       <p>
-       Bla bla bla bla blabla blabla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla .
+  <a href="/imgs/wasistultrafilter.pdf">Folien</a>.
+      </p>
+    </div>
+  </div>	
+  <!-- ===== ANSWERS TO QUESTIONS ============== -->
+  <div class="row">
+    <div class="col-md-2" style="text-align:right;">
+      <b>Antworten auf Fragen</b>
+    </div>
+    <div class="col-md-10">
+      <p>
+Nathan fragte beim Thema Ultrapotenz von $\mathbb{R}$, ob es auch umgekehrt zu jedem maximalen Ideal des Rings $\mathbb{R}^\mathbb{N}$ einen Ultrafilter gibt, so dass die Ultrapotenz gerade dem Quotientenkörper entspricht. Dies ist der Fall. <br>
+<ul> Beweis: Sei $I$ maximales Ideal des Rings. Definiere $ U:= \{ A \subseteq \mathbb{N} \ |\ (\exists x \in I)\, A = x^{-1}( 0) \}$. Dann ist $ U $ schon Ultrafilter!
+<ul><li> $\mathbb{N} \in U$, denn die Nullfolge ist in $I$ (da additive Unterhalbgruppe); $ \emptyset \notin U$, denn jede Folge, die nirgends $ 0 $ ist, ist invertierbar (durch die Folge der Kehrwerte) -- $I$ ist aber echtes Ideal, enthält also keine Einheiten.</li>
+<li> Sind $ A,\, B\in U$, z.B. $A= x^{-1}(0),\, B = y^{-1}(0)$. Dann ist $x+y \in I$ (da additive Gruppe) und gerade (!) $x+y^{-1}(0) = A \cap B$.</li>
+<li>Ist $A\in U$ und $A \subseteq B$ und wieder $ A = x^{-1}(0)$, so ist für die charakteristische Funktion $\chi$ von $\mathbb{N} \setminus B$ (die genaue bei den Elementen von $B$ nur $0$ und sonst $1$ ist) gerade $x \cdot \chi^{-1} = B$ (!!) und $x \cdot \chi \in I$ (da Ideal).</li>
+<li>Zuletzt sei $ \mathbb{N} = A \cup B$ mit $ A \cap B = \emptyset$. Dann ist für die jeweiligen charakteristischen Funktionen $ \chi_A, \chi_B$ ja gerade $ \chi_A \cdot \chi_B (k) = 0 $ für jedes $ k\in \mathbb{N}$. Da in einem kommutativen Ring mit Eins jedes maximale Ideal prim ist, folgt, dass schon $\chi_A$ bzw. $ \chi_b $ in $I$, also $ B$ bzw. $ A$ in $U$ ist. Damit ist der Filter $U$ prim, also ein Ultrafilter.</li> </ul> </ul>  </p>
+Kleiner Hinweis: Das Argumentieren mit der charakteristischen Funktion ist etwas frickelig, weil die charakteristische Funktion einer Menge gerade dann im Ideal ist, wenn ihr Komplement im Filter ist. Das legt die Formulierung eines Ideal Begriffs dual zum Filterbegriff nahe, wie er auch in der Literatur vorhanden ist, d.h. ein Ideal dual zum Filter besteht aus den Komplementen der Filtermengen, ist abgeschlossen unter Vereinigungen und Teilmengen etc..  
+  </div>
+  </div>
+<!-- ===== COMMENTS AND CRITICISM ============== -->
+  <div class="row">
+    <div class="col-md-2" style="text-align:right;">
+      <b>Kommentare und Kritik</b>
+    </div>
+    <div class="col-md-10">
+      <p>
+  Der Vortrag war "zu kurz" -- Tobias Einwände wurden von mir (Peter) nicht verstanden. Ich hätte ja länger reden können, weil schon viele Fragen während des Vortrags kamen. Vorschlag: "Zeitplanung" sollte nicht vom Vortragenden übernommen werden. <br>
+-- krautzbe@PCPOOL/MI/FU-BERLIN.DE - 23 May 2008
       </p>
     </div>
   </div>
