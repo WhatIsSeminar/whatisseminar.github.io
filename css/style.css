@@ -101,6 +101,20 @@ a, a:active, a:hover{
     font-size: medium;
 }
 
+a.bmstalk {
+    color: normal;
+    font-style:normal;
+    font-variant: normal;
+    font-size: medium;
+}
+
+a.bmstalk:active, a.bmstalk:hover{
+    color: #FF69B4;
+    font-style:normal;
+    font-variant: normal;
+    font-size: medium;
+}
+
 h2 {
   font-weight:700;
   color:#FF69B4;
