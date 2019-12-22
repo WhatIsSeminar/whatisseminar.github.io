@@ -20,8 +20,8 @@ Steps to add/update information about a talk:
 	+Location of the talk where "Place" is.
 	+The most common one will be "Urania Berlin, at BMS Loft (3rd floor)", but one should check that the talk didn't took place at another floor.
 	+For FU, HU and TU, the format will be "FU/HU/TU Berlin, at room IDENTIFICATION-NUMBER (Street-name and number of building)", except for two exceptions which are:
-		* "HU Berlin, at BMS Seminar Room (RUD 25 1.023)"
-		* "TU Berlin, at BMS Seminar Room (MA212)"
+		* "HU Berlin, at the BMS Seminar Room (RUD 25, 1.023)"
+		* "TU Berlin, at the BMS Seminar Room (MA212)"
 -Abstract
 	+Abstract of the talk where the sequence of consecutive "bla " is.
 	+For a paragraph break, use "</p><p>" adding the substituting the "<p>" of the old paragraph environment by "<p style="margin:0;">" so that there is no space between the paragraphs. Also one can just employ "<br>", but this is not a good practice in HTML programming.
