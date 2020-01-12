@@ -22,3 +22,6 @@
 20090130: http://www.scivee.tv/node/9950
 20090206: video seems to be missing
 20090213: http://www.scivee.tv/node/11300
+20090522: http://www.scivee.tv/node/11302
+20090605: http://www.scivee.tv/node/11517
+20090626: http://www.scivee.tv/node/14621
