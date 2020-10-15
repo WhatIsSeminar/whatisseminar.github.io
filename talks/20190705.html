@@ -6,6 +6,14 @@
   <meta name="google" content="notranslate" />
   <meta http-equiv="Content-Language" content="en"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="block-all-mixed-content"/>
+  <!-- The mathjax script uses eval(), so we cannot easily forbid it... -->
+  <!-- FIXME: disallow inline scripts, by providing their hash value. -->
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-eval' 'unsafe-inline' https://code.jquery.com/ https://cdnjs.cloudflare.com/ajax/libs/tether/ https://cdnjs.cloudflare.com/ajax/libs/mathjax/ https://player.vimeo.com/api/player.js"/>
+  <meta http-equiv="Content-Security-Policy" content="object-src 'none'; img-src 'self'"/>
+  <meta http-equiv="Content-Security-Policy" content="media-src 'self' https://player.vimeo.com/video/"/>
+  <!-- FIXME. Also provide a policy for default-src. Will require adding one for style-src as well. -->
   <title>What is a random walk in random environment?</title>
   <meta name="description" content="Talk by Anna-Lisa Sokol in the &ldquo;What is...?&rdquo; Seminar in Berlin" />
 
@@ -91,7 +99,7 @@
       <div class="col-md-3"></div>
       <div class="col-md-6">
         <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/372369828?color=FF69B4&byline=0&portrait=0&title=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
-        <script src="https://player.vimeo.com/api/player.js"></script>
+        <script src="https://player.vimeo.com/api/player.js" integrity="sha384-+VHWazrCYN8U/+F3A4lCpjOcMpi7lxRurZG3cXLSk/92K3Rm+4Qtq6ru8aH8KW9K" crossorigin="anonymous"></script>
       </div>
       <div class="col-md-3"></div>
     </div>
@@ -139,6 +147,6 @@
       }
      });
   </script>
-  <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+  <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' integrity="sha384-3lJUsx1TJHt7BA4udB5KPnDrlkO8T6J6v/op7ui0BbCjvZ9WqV4Xm6DTP6kQ/iBH" crossorigin="anonymous" async></script>
 </body>
 </html>
