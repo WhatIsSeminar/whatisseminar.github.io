@@ -1063,8 +1063,18 @@
     <loc>https://whatisseminar.xyz/talks/20200218.html</loc>
     <lastmod>2020-02-12</lastmod>
   </url>
+  <!-- ===================================================
+       Summer Semester 2020
+       =================================================== -->
   <url>
     <loc>https://whatisseminar.xyz/talks/20200605.html</loc>
     <lastmod>2020-06-24</lastmod>
+  </url>
+  <!-- ===================================================
+       Winter Semester 2020/21
+       =================================================== -->
+  <url>
+    <loc>https://whatisseminar.xyz/talks/20201211.html</loc>
+    <lastmod>2020-12-07</lastmod>
   </url>
 </urlset>
