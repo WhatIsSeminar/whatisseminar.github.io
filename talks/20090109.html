@@ -19,9 +19,9 @@
   <link href="../css/socialmedia.css" rel="stylesheet"/>
 </head>
 
-  <body>
-<div class="fixed-top" data-toggle="affix">
-   <nav class="navbar navbar-toggleable-md navbar-inverse navbar-custom" id="general">
+<body>
+  <div class="fixed-top" data-toggle="affix">
+    <nav class="navbar navbar-toggleable-md navbar-inverse navbar-custom" id="general">
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -31,24 +31,23 @@
         <ul class="navbar-nav mr-auto">
           <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
 
-	         <li class="nav-item"><a class="nav-link" href="../talks.html">All talks</a></li>
+          <li class="nav-item"><a class="nav-link" href="../talks.html">All talks</a></li>
 
           <li class="nav-item"><a class="nav-link" href="../currenttalk.html">This week...</a></li>
 
-	        <li class="nav-item"><a class="nav-link" href="../organization.html">Organization</a></li>
+          <li class="nav-item"><a class="nav-link" href="../organization.html">Organization</a></li>
 
-	        <li class="nav-item"><a class="nav-link" href="../contact.html">Contact</a></li>
+          <li class="nav-item"><a class="nav-link" href="../contact.html">Contact</a></li>
 
         </ul>
       </div>
 
     </nav>
-</div>
-
+  </div>
 
 <div class="container">
   <hr>
-  <h2 class="display-3" style="color:black;">$\vec{w}h\alpha\mathfrak{t}\;\; i\mathbb{S}\ldots$<!--\forall\mathbb{R}\varepsilon\ldots$--></h2>
+  <h2 class="display-3" style="color:black;">$\vec{w}h\alpha\mathfrak{t}\;\; i\mathbb{S}\ldots$</h2>
   <h2 style="text-align:center;color:black;" class="display-4">the $\mathsf P$ versus $\mathsf{NP}$ problem?</h2>
   <hr>
   <!-- ===== SPEAKER ============== -->
@@ -86,24 +85,24 @@
     </div>
     <div class="col-md-10">
       <p>
-      Which boxes in the picture above should be chosen to maximize the amount of money while still keeping the overall weight under or equal to 15 kg? Problems of this type are called knapsack problems. They belong to the class of $\mathsf{NP}$ problems, which are in general very hard to solve.
-    </p><p>
-      Let $\mathsf P$ be the class of problems that can be solved in polynomial time. $\mathsf P$ is a subset of $\mathsf{NP}$. One of the Millenium problems is to decide whether $\mathsf P$ equals $\mathsf{NP}$. Put differently, we want to know if there are problems whose answer can be quickly checked, but which require an impossibly long time to solve even on a supercomputer.
-    </p><p>
-      We will define the classes $\mathsf P$ and $\mathsf{NP}$ using Turing machines, give plenty of examples and explain why the $\mathsf P$ vs. $\mathsf{NP}$ problem is important.
-</p>
-</div>
-</div>
-<hr>
+        Which boxes in the picture above should be chosen to maximize the amount of money while still keeping the overall weight under or equal to 15 kg? Problems of this type are called knapsack problems. They belong to the class of $\mathsf{NP}$ problems, which are in general very hard to solve.
+      </p><p>
+        Let $\mathsf P$ be the class of problems that can be solved in polynomial time. $\mathsf P$ is a subset of $\mathsf{NP}$. One of the Millenium problems is to decide whether $\mathsf P$ equals $\mathsf{NP}$. Put differently, we want to know if there are problems whose answer can be quickly checked, but which require an impossibly long time to solve even on a supercomputer.
+      </p><p>
+        We will define the classes $\mathsf P$ and $\mathsf{NP}$ using Turing machines, give plenty of examples and explain why the $\mathsf P$ vs. $\mathsf{NP}$ problem is important.
+      </p>
+    </div>
+  </div>
+  <hr>
   <div class="row">
     <div class="col-md-5" style="text-align:center;font-size:0.7em;">
-<a href="https://commons.wikimedia.org/wiki/File:Knapsack.svg"><img src="../imgs/WhatIsPvsNP_knapsack2.png" style="width:100%;" alt="Illustration of the knaspack problem by Dake"></a>
-<p style="text-align:center;"><a href="https://creativecommons.org/licenses/by-sa/2.5/">(CC BY-SA 2.5)</a> <a href="https://commons.wikimedia.org/wiki/File:Knapsack.svg">Wikimedia Commons</a></p>
-</div>
-<div class="col-md-7" style="text-align:center;">
-<a href="https://xkcd.com/287/"><img src="../imgs/xkcd_np_complete.png" style="width:95%;" alt="Comic strip from xkcd by Randall Munroe on the knapsack problem"></a> <p style="text-align:center;"><a href="https://creativecommons.org/licenses/by-nc/2.5/">(CC BY-NC 2.5)</a> <a href="https://xkcd.com/">xkcd.com</a> (by Randall Munroe)</p>
-</div>
-</div>
+      <a href="https://commons.wikimedia.org/wiki/File:Knapsack.svg"><img src="../imgs/WhatIsPvsNP_knapsack2.png" style="width:100%;" alt="Illustration of the knaspack problem by Dake"></a>
+      <p style="text-align:center;"><a href="https://creativecommons.org/licenses/by-sa/2.5/">(CC BY-SA 2.5)</a> <a href="https://commons.wikimedia.org/wiki/File:Knapsack.svg">Wikimedia Commons</a></p>
+    </div>
+    <div class="col-md-7" style="text-align:center;">
+      <a href="https://xkcd.com/287/"><img src="../imgs/xkcd_np_complete.png" style="width:95%;" alt="Comic strip from xkcd by Randall Munroe on the knapsack problem"></a> <p style="text-align:center;"><a href="https://creativecommons.org/licenses/by-nc/2.5/">(CC BY-NC 2.5)</a> <a href="https://xkcd.com/">xkcd.com</a> (by Randall Munroe)</p>
+    </div>
+  </div>
   <!-- ===== VIMEO (only when video is there, one should only change the video code) ============== -->
   <!--<hr>
   <div class="row">
@@ -118,33 +117,33 @@
 </div>
 
 
-<footer>
-<hr>
-    <p style="text-align:left;">&emsp;&emsp;&copy; $``\vec{w}h\alpha\mathfrak{t}\;\; i\mathbb{S}\ldots\text{?''}$ Seminar</p>
-<hr style="margin: 0;">
-</footer> <!-- /container -->
+  <footer>
+  <hr>
+      <p style="text-align:left;">&emsp;&emsp;&copy; $``\vec{w}h\alpha\mathfrak{t}\;\; i\mathbb{S}\ldots\text{?''}$ Seminar</p>
+  <hr style="margin: 0;">
+  </footer> <!-- /container -->
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <script src="../js/bootstrap.min.js"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../js/ie10-viewport-bug-workaround.js"></script>
-    <!-- Adjust the layout on small screens (e.g. on mobile phones). -->
-    <script src="../js/mobile_layout_talks.js"></script>
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+  <script src="../js/bootstrap.min.js"></script>
+  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <script src="../js/ie10-viewport-bug-workaround.js"></script>
+  <!-- Adjust the layout on small screens (e.g. on mobile phones). -->
+  <script src="../js/mobile_layout_talks.js"></script>
 
-    <!-- For math expression-->
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({
-       tex2jax: {
-         inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-        processEscapes: true
-        }
-       });
-    </script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-3lJUsx1TJHt7BA4udB5KPnDrlkO8T6J6v/op7ui0BbCjvZ9WqV4Xm6DTP6kQ/iBH" crossorigin="anonymous" async></script>
-  </body>
+  <!-- For math expression-->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+     tex2jax: {
+       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+      }
+     });
+  </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-3lJUsx1TJHt7BA4udB5KPnDrlkO8T6J6v/op7ui0BbCjvZ9WqV4Xm6DTP6kQ/iBH" crossorigin="anonymous" async></script>
+</body>
 </html>
