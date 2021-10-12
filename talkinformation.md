@@ -1,5 +1,5 @@
 Steps to add/update information about a talk:
-1. Creation of file. Duplicate the file "template_talk.html" with the name "YYYYMMDD.html" where YYYYMMDD is the date of the talk in the folder "Talks". This will make the identifier unique and systematic. If the talk is at Urania, one can use "template_BMSFriday_talk_at_Urania.html".
+1. Creation of file. Duplicate the file "template_talk.html" with the name "YYYYMMDD.html" where YYYYMMDD is the date of the talk in the folder "Talks". This will make the identifier unique and systematic. If the talk is at Urania, one can use "template_MATH+Friday_talk_at_Urania.html".
 
 2. Meta information. Put the title of the talk in the meta tag title and below the complete name of the speaker in the meta tag of the description. The name of the talk should be included here as "What is/are TOPIC-OF-THE-TALK?". Note: Cancel the "are" comment if not used (else it appears at the top of the page.
 
@@ -14,7 +14,7 @@ Steps to add/update information about a talk:
 -Date
 	+Date of the talk of the talk in the place of "YYYY/MM/DD"
 	+Time of the talk in the place of "13:00".
-	+If the talk takes place on a BMS Friday, uncomment the break and put the complete name of the professor in the place of "XYZ". If possible, add the link to the BMS' poster for the talk. (A list of old talk and their poster can be found on https://math-berlin.de/academics/bms-fridays/past-friday-colloquia.)
+	+If the talk takes place on a MATH+ Friday, uncomment the break and put the complete name of the professor in the place of "XYZ". If possible, add the link to the BMS' poster for the talk. (A list of old talks and their posters can be found on https://math-berlin.de/academics/bms-fridays/past-friday-colloquia.)
 	+If the talk took place during the BMS Days add to this line "during the BMS Days". Similarly for other special BMS events.
 -Location
 	+Location of the talk where "Place" is.
