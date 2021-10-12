@@ -18,12 +18,13 @@ Steps to add/update information about a talk:
 	+If the talk took place during the BMS Days add to this line "during the BMS Days". Similarly for other special BMS events.
 -Location
 	+Location of the talk where "Place" is.
-	+The most common one will be "Urania Berlin, at BMS Loft (3rd floor)", but one should check that the talk didn't took place at another floor.
+	+At the moment, this is usually an online talk. You can copy the phrasing from a previous talk's page.
+	+The most common one will be "Urania Berlin, at the BMS Loft (3rd floor)", but one should check that the talk didn't took place at another floor.
 	+For FU, HU and TU, the format will be "FU/HU/TU Berlin, at room IDENTIFICATION-NUMBER (Street-name and number of building)", except for two exceptions which are:
 		* "HU Berlin, at the BMS Seminar Room (RUD 25, 1.023)"
 		* "TU Berlin, at the BMS Seminar Room (MA212)"
 -Abstract
-	+Abstract of the talk where the sequence of consecutive "bla " is.
+	+Abstract of the talk where the sequence of consecutive "bla " is replaced by the actual content.
 	+For a paragraph break, use "</p><p>" adding the substituting the "<p>" of the old paragraph environment by "<p style="margin:0;">" so that there is no space between the paragraphs. Also one can just employ "<br>", but this is not a good practice in HTML programming.
 -Video
 	+Check if there is a public video of the talk in Vimeo
@@ -42,6 +43,6 @@ Steps to add/update information about a talk:
   <loc>https://whatisseminar.xyz/talks/YYYYMMDD.html</loc>
   <lastmod>YYYY-MM-DD</lastmod>
 </url>
-where the first date is the identifier of the HTML file of the talk and the second one the day of creation modification of the talk. If the file is just being modified, then just update the date of the code present in the XML file.
+where the first date is the identifier of the HTML file of the talk and the second one the day of creation or modification of the talk. If the file is just being modified, then just update the date of the code present in the XML file.
 
-6. If this is a current talk, paste the relevant part of the code in the currenttalk.html file, so that it remains updated. Don't erase the sentences concerning the weeks that there are no talks. These has just to be commented out.
+6. If this is a current talk, paste the relevant part of the code in the currenttalk.html file, so that it remains updated. Don't erase the sentences concerning the weeks that there are no talks. These just need to be commented out.
