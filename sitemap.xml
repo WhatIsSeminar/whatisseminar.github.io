@@ -67,7 +67,7 @@
 
   <url>
     <loc>https://whatisseminar.xyz/organization.html</loc>
-    <lastmod>2021-10-12</lastmod>
+    <lastmod>2021-11-15</lastmod>
     <priority>0.8</priority>
   </url>
 
@@ -1130,5 +1130,9 @@
   <url>
     <loc>https://whatisseminar.xyz/talks/20211022.html</loc>
     <lastmod>2021-10-18</lastmod>
+  </url>
+  <url>
+    <loc>https://whatisseminar.xyz/talks/20211119.html</loc>
+    <lastmod>2021-11-15</lastmod>
   </url>
 </urlset>
