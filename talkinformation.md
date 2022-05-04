@@ -1,5 +1,5 @@
 Steps to add/update information about a talk:
-1. Creation of file. Duplicate the file "template_talk.html" with the name "YYYYMMDD.html" where YYYYMMDD is the date of the talk in the folder "Talks". This will make the identifier unique and systematic. If the talk is at Urania, one can use "template_MATH+Friday_talk_at_Urania.html".
+1. Creation of file. Duplicate the file "template_talk.html" with the name "YYYYMMDD.html" where YYYYMMDD is the date of the talk in the folder "Talks". This will make the identifier unique and systematic. For a hybrid talk preceding the MATH+colloquium, you can use "template_MATH+Friday_talk_hybridTU.html".
 
 2. Meta information. Put the title of the talk in the meta tag title and below the complete name of the speaker in the meta tag of the description. The name of the talk should be included here as "What is/are TOPIC-OF-THE-TALK?". Note: Cancel the "are" comment if not used (else it appears at the top of the page.
 
@@ -18,8 +18,8 @@ Steps to add/update information about a talk:
 	+If the talk took place during the BMS Days add to this line "during the BMS Days". Similarly for other special BMS events.
 -Location
 	+Location of the talk where "Place" is.
-	+At the moment, this is usually an online talk. You can copy the phrasing from a previous talk's page.
-	+The most common one will be "Urania Berlin, at the BMS Loft (3rd floor)", but one should check that the talk didn't took place at another floor.
+	+At the moment, this is a hybrid talk (both at TU and online). Most likely, you can just keep the phrasing from the template talks/template_MATH+Friday_talk_hybridTU.html.
+	+The most common location in the past was "Urania Berlin, at the BMS Loft (3rd floor)", but one should check that the talk didn't take place on another floor.
 	+For FU, HU and TU, the format will be "FU/HU/TU Berlin, at room IDENTIFICATION-NUMBER (Street-name and number of building)", except for two exceptions which are:
 		* "HU Berlin, at the BMS Seminar Room (RUD 25, 1.023)"
 		* "TU Berlin, at the BMS Seminar Room (MA212)"
@@ -28,7 +28,7 @@ Steps to add/update information about a talk:
 	+For a paragraph break, use "</p><p>" adding the substituting the "<p>" of the old paragraph environment by "<p style="margin:0;">" so that there is no space between the paragraphs. Also one can just employ "<br>", but this is not a good practice in HTML programming.
 -Video
 	+Check if there is a public video of the talk in Vimeo
-	+If that's the case, uncomment the Vimeo video code pasting the numerical code of the Video in the place of the number 160594229 that is in the address between "video/" and "?color=".
+	+If that's the case, uncomment the Vimeo video code pasting the numerical code of the Video in the place of the number `160594229` that is in the address between `video/` and `?color=`.
 
 4. Update the "talks.html" file. Add the infomation of the talk to the talks list.
 -Date. Add the date in the format YYYY/MM/DD
