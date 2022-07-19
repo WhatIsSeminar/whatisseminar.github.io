@@ -7,7 +7,7 @@ Steps to add/update information about a talk:
 -Choose "What is..." or "What are..." depending on grammatical number of what comes next. Just erase the one that does not belong there.
 -Title
 	+Title should go in the place of "whatever the talk is about" (without the particle "What is/are" of the beginning which is already included in a fancy form).
-	+One should avoid capitalization in the title. If this is an old talk, one should make sure that the title in the talks lists in "talks.html" is not capitalized at all.
+	+One should avoid capitalization in the title. Please make sure that the title in the talks lists in "talks.html" is not capitalized at all.
 -Speaker
 	+Complete name of the speaker where "Speaker" is.
 	+Institution of the speaker where "University Berlin" is. Use "FU/HU/TU Berlin" instead of just "FU/HU/TU".
