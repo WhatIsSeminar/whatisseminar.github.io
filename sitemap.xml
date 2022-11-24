@@ -281,6 +281,8 @@
     <loc>https://whatisseminar.xyz/talks/20100709.html</loc>
     <lastmod>2022-07-11</lastmod>
   </url>
+	
+	
 <!-- ===================================================
        Winter Semester 2010/11
      =================================================== -->
@@ -1247,5 +1249,9 @@
   <url>
     <loc>https://whatisseminar.xyz/talks/20221104.html</loc>
     <lastmod>2022-11-08</lastmod>
+  </url>
+<url>
+    <loc>https://whatisseminar.xyz/talks/20221202.html</loc>
+    <lastmod>2022-11-24</lastmod>
   </url>
 </urlset>
