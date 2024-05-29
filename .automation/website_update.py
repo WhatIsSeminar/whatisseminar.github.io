@@ -204,10 +204,10 @@ def create_talk_website(talk_data):
 
 
 if __name__ == "__main__":
-    # talk_data = collect_information()
+    talk_data = collect_information()
 
     # Test data:
-    talk_data = {'date': '2024/05/03', 'time': '13:00 s.t.', 'location': {'uni': 'FU Berlin', 'building': 'Arnimallee 3', 'map': 'fu_map_numbers.jpg'}, 'room': 'SR 119', 'live-streamed': False, 'speaker': 'Ji Hoon Chun', 'affiliation': 'TU Berlin', 'title': 'What are... sphere packing lower and upper bounds?', 'abstract': 'In Euclidean space, the densest sphere packings and their densities are only known in dimensions 1, 2 (Thue, Fejes Tóth), 3 (Hales), 8 (Viazovska), and 24 (Cohn et al.). However, several nontrivial lower and upper bounds for the density δ(d) of the densest packing in dimension d have been established. A simple "folklore" result states that δ(d) ≥ 1/2^d. In this talk we present the intuition and details of three other lower and upper bounds for δ(d): the Minkowski–Hlawka theorem for a lower bound, Blichfeldt\'s upper bound, and Rogers\'s upper bound. These results, among others, place δ(d) within a narrow strip of possible densities.', 'before_mathplus': True, 'mathplus_speaker': 'Julian Sahasrabudhe (U Cambridge)', 'mathplus_poster_link': 'https://www.math-berlin.de/images/poster/MATHFriday_Sahasrabudhe.pdf'}
+    # talk_data = {'date': '2024/05/03', 'time': '13:00 s.t.', 'location': {'uni': 'FU Berlin', 'building': 'Arnimallee 3', 'map': 'fu_map_numbers.jpg'}, 'room': 'SR 119', 'live-streamed': False, 'speaker': 'Ji Hoon Chun', 'affiliation': 'TU Berlin', 'title': 'What are... sphere packing lower and upper bounds?', 'abstract': 'In Euclidean space, the densest sphere packings and their densities are only known in dimensions 1, 2 (Thue, Fejes Tóth), 3 (Hales), 8 (Viazovska), and 24 (Cohn et al.). However, several nontrivial lower and upper bounds for the density δ(d) of the densest packing in dimension d have been established. A simple "folklore" result states that δ(d) ≥ 1/2^d. In this talk we present the intuition and details of three other lower and upper bounds for δ(d): the Minkowski–Hlawka theorem for a lower bound, Blichfeldt\'s upper bound, and Rogers\'s upper bound. These results, among others, place δ(d) within a narrow strip of possible densities.', 'before_mathplus': True, 'mathplus_speaker': 'Julian Sahasrabudhe (U Cambridge)', 'mathplus_poster_link': 'https://www.math-berlin.de/images/poster/MATHFriday_Sahasrabudhe.pdf'}
 
     print("Talk Data: \n{}".format(talk_data))
 
