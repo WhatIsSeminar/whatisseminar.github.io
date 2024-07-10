@@ -25,6 +25,7 @@ maps = {
     "TU" : "tu_map.jpg",
     "HU" : "hu_map_named.jpg",
     "FU" : "fu_map_numbers.jpg",
+    "PTB_Charlottenburg" : "PTB_Charlottenburg_map.pdf"
 }
 
 
@@ -38,6 +39,7 @@ locations = [
     {"uni": "FU Berlin", "building" : "Arnimallee 3",                             "map" : maps["FU"]},
     {"uni": "FU Berlin", "building" : "Takustraße 9 (T9)",                        "map" : maps["FU"]},
     {"uni": "FU Berlin", "building" : "ZIB",                                      "map" : maps["FU"]},
+    {"uni": "Physikalisch-Technische Bundesanstalt (PTB)", "building": "Anna-von-Helmholtz-Bau", "map" : maps["PTB_Charlottenburg"]},
 ]
 
 
@@ -193,7 +195,7 @@ def create_talk_website(talk_data):
     # Printing the file:
     print("\n--- Now creating the website file. ---\n")
 
-    with open(talk_path, "w") as html_file:
+    with open(talk_path, "w+") as html_file:
         with open("template", "r") as template_file:
             for line in template_file:
                 updated_line = update_line(line, talk_data)
