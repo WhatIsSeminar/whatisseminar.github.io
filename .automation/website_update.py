@@ -34,6 +34,7 @@ maps = {
 locations = [
     {"uni": "HU Berlin", "building" :"Erwin-Schrödinger-Zentrum",                "map" : maps["HU"]},
 
+    {"uni": "TU Berlin", "building" : "Chemie-Gebäude (C)",                       "map" : maps["TU"]},
     {"uni": "TU Berlin", "building" : "Eugene-Paul-Wigner-Gebäude (EW)",          "map" : maps["TU"]},
 
     {"uni": "FU Berlin", "building" : "Arnimallee 3",                             "map" : maps["FU"]},
